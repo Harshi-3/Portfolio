@@ -29,7 +29,7 @@ window.addEventListener('scroll', () => {
 });
 
 // Typing Animation for Hero Subtitle
-const text = "Full-Stack Developer";
+const text = "Front-end Developer";
 const typingText = document.querySelector(".typing-text");
 
 let charIndex = 0;
